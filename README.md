@@ -55,3 +55,6 @@ This is a checbox
       - Content2.2.2
   - Content3
 
+This is another image  
+![wall paper)(https://github.com/agbatakenneth/Documentation/blob/main/Nitro_Wallpaper_5000x2813.jpg)
+
